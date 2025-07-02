@@ -1,0 +1,15 @@
+{
+    "new_member_greeting_response": "Merhaba {username}, {group_name} grubuna hoş geldin!",
+    "bot_joins_to_group":"Beni gruba eklediğin için teşekkürler.\nKomutlarımı görmek için: /help",
+    "start_command_response":"Merhaba {username}, ben {botUsername}!\nKomutlarımı görmek için : /help\nBotun altyapısını görmek için:https://github.com/switlydev/telebot-base/",
+    "help_command_response":"Hangi tür komutları görmek istersin?",
+    "keyboard_button_moderation": "Moderasyon ⚒️",
+    "keyboard_button_fun":"Eğlence 🎭",
+    "keyboard_button_settings":"Ayarlar ⚙️",
+    "callModeration_response":"Moderasyon komutlarım şu şekilde:\n(Burayı moderasyon komutları ile doldurun.)",
+    "bot_started": "Bot başlatıldı.\nBotu kapatmak için Ctrl + C.\nGithub:github.com/switlydev",
+    "bot_stopped":"Bot durduruldu."
+
+
+
+}

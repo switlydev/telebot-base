@@ -1,0 +1,16 @@
+{
+    "new_member_greeting_response":"Hi {username}, welcome to {group_name}!",
+    "bot_joins_to_group":"Thanks for adding me to the group.\nTo see my commands: /help",
+    "start_command_response":"Hello {username}, I'm {botUsername}!\nTo see my commands:/help\nTo see the bot's infrastructure:https://github.com/switlydev/telebot-base/",
+    "help_command_response":"What type of commands would you like to see?",
+    "keyboard_button_moderation": "Moderation ⚒️",
+    "keyboard_button_fun":"Fun 🎭",
+    "keyboard_button_settings":"Settings ⚙️",
+    "callModeration_response":"My moderation commands are as follows:\n(Fill in this with moderation commands.)",
+    "bot_started":"Bot started. \nCtrl + C to close the bot.\nGithub:github.com/switlydev",
+    "bot_stopped":"Bot has been stoped."
+
+
+
+
+}
